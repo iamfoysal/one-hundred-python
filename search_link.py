@@ -88,14 +88,17 @@ window.mainloop()
 
 
 '''
-This is the code for the search link
-import tkinter as tk
-from tkinter import messagebox, Listbox, Scrollbar
-from googlesearch import search
-import webbrowser
-
+This is the code for the search link by keyword  and export the links in a csv file and open the link in your default browser
 when you run this code you will see a window with a search bar and a search button
-you can search anything you want and it will show you the top 20 links
+you can search any keyword and it will show you the top 20 links
 you can click on the link and it will open in your default browser
+you can also export the links in a csv file
+you can also clear the search result
+
+
+pip install googlesearch-python
+pip install tk
+
+
 
 '''
