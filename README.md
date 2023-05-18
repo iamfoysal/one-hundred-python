@@ -1,6 +1,12 @@
-# Python-project-1-100
+<h1 align="center"">
+||~   100 Python Projects with Source Code  
+~|| 
 
-Here is 1-100 short importent project:
+<hr>
+</h1>
+
+
+
 
 1.  [Email Finder](/docs/email_finder.md) -This is a simple email finder app that uses Google search to find email addresses from the web. 
 
