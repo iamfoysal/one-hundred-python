@@ -1,0 +1,7 @@
+*.csv
+.csv
+env
+*.log
+.test.py 
+test.py 
+test.py
