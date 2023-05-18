@@ -17,11 +17,14 @@ The `update()` method is called every second and the clock is redrawn.
 
     pip install PyQt5
 
+
+ ## [Click here for Source Code](analog_clock.py)
+
 #####  Output:
 
 <p align="center">
 
-  <img src="collections/analog_clock.png" />
+  <img src="/collections/analog_clock.png" />
 
 </p>
 <hr>
