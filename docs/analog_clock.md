@@ -18,7 +18,7 @@ The `update()` method is called every second and the clock is redrawn.
     pip install PyQt5
 
 
- ## [Click here for Source Code](analog_clock.py)
+ ## [Click here for Source Code](/analog_clock.py)
 
 #####  Output:
 
