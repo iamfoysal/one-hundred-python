@@ -5,3 +5,5 @@ env
 .test.py 
 test.py 
 test.py
+*.mp3
+*.mp4

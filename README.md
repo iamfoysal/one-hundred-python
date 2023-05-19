@@ -15,3 +15,5 @@
 3.  [Digital Clock](/docs/digital_clock.md) - This is a digital clock application that displays the current time in any `selected timezone`.
 
 4. [Analog Clock](/docs/analog_clock.md) -   This is a simple analog watch.
+5. [Text-Speech](/docs/speech.md) - This is a simple text to speech application.
+6. [Text-Audio](/docs/text_to_audio.md) - This application is a text to speech audio converter application.
