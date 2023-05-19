@@ -17,3 +17,5 @@
 4. [Analog Clock](/docs/analog_clock.md) -   This is a simple analog watch.
 5. [Text-Speech](/docs/speech.md) - This is a simple text to speech application.
 6. [Text-Audio](/docs/text_to_audio.md) - This application is a text to speech audio converter application.
+7. [Secret Key Generator](/docs/secret_key.md) - This application is a Django secret key generator. 
+8. [Webcam](/docs/web_cam.md)- webcam application for capturing images without mirror effect.

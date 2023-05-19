@@ -7,3 +7,5 @@ test.py
 test.py
 *.mp3
 *.mp4
+*.dat
+face_dictate.py
