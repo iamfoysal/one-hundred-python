@@ -36,9 +36,10 @@ def play_audio(file_path):
 # Create the application window
 window = tk.Tk()
 window.title("Text-to-Speech Application")
+window.geometry("800x400")
 
 # Create the text entry field
-text_entry = tk.Text(window, height=10, width=30)
+text_entry = tk.Text(window, height=20, width=40)
 text_entry.pack()
 
 # Create the language selection dropdown
@@ -61,12 +62,3 @@ window.mainloop()
 
 
 
-
-'''
-This application is a text to speech audio converter application that uses the google text to speech library gTTS  
-it uses to convert text to speech audio files  and  tkinter for the gui, threading for the multithreading and subprocess for the audio playback 
-it is a simple application that can be used to convert text to speech audio files in different languages
-convated audio files are saved in the same directory as the application.
-
-
-'''

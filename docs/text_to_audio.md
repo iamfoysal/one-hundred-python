@@ -8,7 +8,6 @@ it uses to convert text to speech audio files  and  tkinter for the gui, threadi
 convated audio files are saved in the same directory as the application.
 
 
-
 ## Python Library: 
 
     pip install pyttsx3

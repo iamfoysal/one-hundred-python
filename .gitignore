@@ -9,3 +9,5 @@ test.py
 *.mp4
 *.dat
 face_dictate.py
+.cache
+.env 
