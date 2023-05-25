@@ -11,7 +11,6 @@ def search_links():
         return
 
     search_results = search(keyword, num_results=20)  # Adjust the number of results as needed
-
     links_listbox.delete(0, tk.END)  # Clear previous search results
 
     links = []

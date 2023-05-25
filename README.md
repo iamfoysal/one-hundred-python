@@ -18,3 +18,4 @@
 7. [Text-Audio](/docs/text_to_audio.md) - This application is a text to speech audio converter application.
 8. [Secret Key Generator](/docs/secret_key.md) - This application is a Django secret key generator. 
 9. [Webcam](/docs/web_cam.md)- webcam application for capturing images without mirror effect.
+10. [Automatically Screen Sapture ](/docs/capture_script.md)- This Script is for capture screenshot in every `30 seconds`. 
