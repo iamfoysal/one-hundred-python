@@ -11,5 +11,6 @@ test.py
 face_dictate.py
 .cache
 .env 
+my-env
 *.png
 *.jpg
