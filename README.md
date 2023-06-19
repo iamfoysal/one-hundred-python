@@ -19,4 +19,4 @@
 8. [Secret Key Generator](/docs/secret_key.md) - This application is a `Django secret key generator`. 
 9. [Webcam](/docs/web_cam.md)- webcam application for capturing images without `mirror effect`.
 10. [Automatically Screen Sapture ](/docs/capture_script.md)- This Script is for capture screenshot in every `30 seconds`. 
-11. [Django Project](/docs/django_scripts.md)- This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
+11. [Django Project Scripts](/docs/django_scripts.md)- This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
