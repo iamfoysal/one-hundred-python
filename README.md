@@ -13,9 +13,10 @@
 
 4.  [Digital Clock](/docs/digital_clock.md) - This is a` digital clock` application that displays the current time in any `selected timezone`.
 
-5. [Analog Clock](/docs/analog_clock.md) -   This is a simple   .
-6. [Text-Speech](/docs/speech.md) - This is a simple t`ext to speech` application.
+5. [Analog Clock](/docs/analog_clock.md) -   This is a simple Analog Clock application.
+6. [Text-Speech](/docs/speech.md) - This is a simple `text to speech` application.
 7. [Text-Audio](/docs/text_to_audio.md) - This application is a `text to speech audio` converter application.
 8. [Secret Key Generator](/docs/secret_key.md) - This application is a `Django secret key generator`. 
 9. [Webcam](/docs/web_cam.md)- webcam application for capturing images without `mirror effect`.
 10. [Automatically Screen Sapture ](/docs/capture_script.md)- This Script is for capture screenshot in every `30 seconds`. 
+11. [Django Project](/docs/django_scripts.md)- This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
