@@ -26,12 +26,4 @@ print("Sorted Array",arr)
 
 
 
-# # Path: bubble_sort_algorithm.py
-# # how  to work it ?
-# 1. first input the array elements
-# 2. then input the target value
-# 3. then it will show the index of the target value
-# 4. if the target value is not in the array then it will show "Element not found in the array."
-# 5. if the target value is in the array then it will show "Element found at index", result
-# 6. then it will show the sorted array 
 
