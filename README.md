@@ -21,3 +21,4 @@
 10. [Automatically Screen Sapture ](/docs/capture_script.md)- This Script is for capture screenshot in every `30 seconds`. 
 11. [Django Project Scripts](/docs/django_scripts.md)- This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
 12. [Binary search algorithm](/docs/binary_search.md)- Here is the code for `binary search` algorithm.
+13. [Notification](/docs/notifier.md)- An desktop Notification scripts.  
