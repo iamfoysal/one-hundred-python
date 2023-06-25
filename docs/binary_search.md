@@ -1,7 +1,6 @@
 
 <h3 align ="center">
-This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
-
+This is the binary search algorithm 
 <hr>
 </h3>
 <h1  align="center">
