@@ -22,3 +22,4 @@
 11. [Django Project Scripts](/docs/django_scripts.md)- This script will create a django project with a vartual environment and a django app  with a model and admin panel and a superuser.
 12. [Binary search algorithm](/docs/binary_search.md)- Here is the code for `binary search` algorithm.
 13. [Notification](/docs/notifier.md)- An desktop Notification scripts.  
+14. [React project build](/docs/react-build.md) - Build react project with initial setup just one command. 

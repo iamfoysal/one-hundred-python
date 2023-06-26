@@ -1,6 +1,11 @@
 *.csv
 .csv
 env
+dist
+build
+*.pyc
+*.spec
+node_modules
 *.log
 .test.py 
 test.py 
