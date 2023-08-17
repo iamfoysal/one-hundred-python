@@ -23,4 +23,4 @@
 12. [Binary search algorithm](/docs/binary_search.md)- Here is the code for `binary search` algorithm.
 13. [Notification](/docs/notifier.md)- An desktop Notification scripts.  
 14. [React project build](/docs/react-build.md) - Build react project with initial setup just one command. 
-15.[Google reCaptcha Bypass](/docs/recaptcha_bypass.md)- A python script to bypass google reCaptcha.
+15. [Google reCaptcha Bypass](/docs/recaptcha_bypass.md)- A python script to bypass google reCaptcha.
