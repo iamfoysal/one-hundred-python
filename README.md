@@ -1,5 +1,5 @@
 <h1 align="center"">
-||~   100 Python Projects with Source Code  
+||~   100 Python Scripts with Source Code  
 ~|| 
 
 <hr>
