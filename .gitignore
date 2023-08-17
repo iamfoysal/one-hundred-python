@@ -16,6 +16,10 @@ test.py
 face_dictate.py
 .cache
 .env 
+*.wav
+*.zip
+*.vscode
+spambase/
 my-env
 *.png
 *.jpg
